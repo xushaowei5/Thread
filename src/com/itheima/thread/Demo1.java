@@ -23,5 +23,6 @@ public class Demo1 {
         Demo1 d2=new Demo1("上升");
         d1.show();
         d2.show();
+        System.out.println("Hello World");
     }
 }
