@@ -3,6 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/IdeaCode.iml" filepath="$PROJECT_DIR$/IdeaCode.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/GitHub/webmagic/webmagic-core/webmagic-core.iml" filepath="$USER_HOME$/Documents/GitHub/webmagic/webmagic-core/webmagic-core.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/GitHub/webmagic/webmagic-extension/webmagic-extension.iml" filepath="$USER_HOME$/Documents/GitHub/webmagic/webmagic-extension/webmagic-extension.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/GitHub/webmagic/webmagic-parent.iml" filepath="$USER_HOME$/Documents/GitHub/webmagic/webmagic-parent.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/GitHub/webmagic/webmagic-samples/webmagic-samples.iml" filepath="$USER_HOME$/Documents/GitHub/webmagic/webmagic-samples/webmagic-samples.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/GitHub/webmagic/webmagic-saxon/webmagic-saxon.iml" filepath="$USER_HOME$/Documents/GitHub/webmagic/webmagic-saxon/webmagic-saxon.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/GitHub/webmagic/webmagic-scripts/webmagic-scripts.iml" filepath="$USER_HOME$/Documents/GitHub/webmagic/webmagic-scripts/webmagic-scripts.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/GitHub/webmagic/webmagic-selenium/webmagic-selenium.iml" filepath="$USER_HOME$/Documents/GitHub/webmagic/webmagic-selenium/webmagic-selenium.iml" />
     </modules>
   </component>
 </project>
